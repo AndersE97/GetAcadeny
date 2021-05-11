@@ -10,8 +10,8 @@
 	
   	<body>
 
-		<h1>Denne testen kan endres på</h1>
-		<p>(please edit this tekst)<br>
+		<h2>Denne testen kan endres på</h2>
+		<p>please edit this tekst<br>
 		(testing tekst)</p>
 
 	</body>
