@@ -4,14 +4,15 @@
 
 	<head>
 		
-        <title>Dette er en test</title>
+        	<title>Dette er en test</title>
   
-  </head>
+  	</head>
 	
-  <body>
+  	<body>
 
-		<h1>Denne testen kan endres på ;)</h1>
-		<p>(please edit this tekst)</p>
+		<h1>Denne testen kan endres på</h1>
+		<p>(please edit this tekst)<br>
+		(testing tekst)</p>
 
 	</body>
 
