@@ -1,2 +1,18 @@
-Dette er en test. Denne testen kan endres på ;)
-(please edit this tekst)
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		
+        <title>Dette er en test</title>
+  
+  </head>
+	
+  <body>
+
+		<h1>Denne testen kan endres på ;)</h1>
+		<p>(please edit this tekst)</p>
+
+	</body>
+
+</html>
